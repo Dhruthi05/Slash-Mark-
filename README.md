@@ -1,2 +1,0 @@
-# Slash-Mark-
-Python Internship
